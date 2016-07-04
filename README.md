@@ -1,4 +1,4 @@
-# Hello World
+# Pixabay app
 
 This is a starter application. It contains a basic manifest file with no
 additional permissions. The manifest denotes a background script, main.js,
